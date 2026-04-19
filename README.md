@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Alexandre Davi Moreira Maia, tenho 16 anos e sou natural de São Paulo. Estou cursando o ensino médio integrado com o curso técnico de Desenvolvimento de Sistemas pela Etec Jardim Angela. Sou apaixonado por tecnologia e aprender novos conteúdos. 
+Me chamo Alexandre Davi Moreira Maia, tenho 16 anos e sou natural de São Paulo. Estou cursando o ensino médio integrado com o curso técnico de Desenvolvimento de Sistemas pela Etec Jardim Angela. Sou apaixonado por tecnologia e estou sempre buscando aprender novos conhecimentos na área de desenvolvimento. 
 <p>
     <a href="https://github.com/AlexandreMoreiraM?tab=repositories&sort=stargazers">
         <img 
