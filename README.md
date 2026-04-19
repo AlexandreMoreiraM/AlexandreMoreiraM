@@ -3,22 +3,6 @@
 **`Estudante de Desenvolvimento de Sistemas`**
 
 Me chamo Alexandre Davi Moreira Maia, tenho 16 anos e sou natural de São Paulo. Estou cursando o ensino médio integrado com o curso técnico de Desenvolvimento de Sistemas pela Etec Jardim Angela. Sou apaixonado por tecnologia e estou sempre buscando aprender novos conhecimentos na área de desenvolvimento. 
-<p>
-    <a href="https://github.com/AlexandreMoreiraM?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AlexandreMoreiraM?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AlexandreMoreiraM?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlexandreMoreiraM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
